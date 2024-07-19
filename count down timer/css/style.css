@@ -1,0 +1,32 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+.timer-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#timer {
+    font-size: 4rem;
+    color: #333;
+}
+
+input {
+    width: 80px;
+    margin: 0 5px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.btn {
+    width: 100px;
+    margin: 5px;
+}
+
